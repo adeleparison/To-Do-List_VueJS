@@ -1,4 +1,8 @@
-# to-do-liste
+# To-Do-Liste
+
+## Languages
+* VueJS
+* Bootstrap
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
